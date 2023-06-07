@@ -1,7 +1,0 @@
-print("HELLO WORLD!")
-print("HELLO AGAIN")
-print("I LIKE TYPING THIS.")
-print("THIS IS FUN.")
-print('YAY! PRINTING.')
-print("T'D MUCH RATHER YOU 'NOT'.")
-print('I "SAID" DO NOT TOUCH THIS.')
