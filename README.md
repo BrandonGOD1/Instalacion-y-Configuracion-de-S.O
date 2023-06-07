@@ -1,2 +1,2 @@
-# LP3THW
-Ejercicios del libro de Zed Shaw XD
+# ICSO_2023
+Instalacion y Configuracion de Sistemas Operativos :D
